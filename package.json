@@ -117,7 +117,7 @@
     "terminal": "^0.1.4",
     "ts-loader": "^9.5.7",
     "typescript": "^5.9.3",
-    "vitest": "^4.1.10",
+    "vitest": "^4.1.11",
     "vscode-languageserver-types": "^3.17.5",
     "ws": "^8.21.0"
   },
